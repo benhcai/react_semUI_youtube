@@ -8,7 +8,7 @@ const youtube = {
     baseURL: "https://www.googleapis.com/youtube/v3/",
     params: {
       part: "snippet",
-      maxResults: 10,
+      maxResults: 5,
       key: KEY,
     },
   }),

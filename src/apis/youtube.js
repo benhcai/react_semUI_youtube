@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Meant to be publically available
-const KEY = "AIzaSyBfPZP6cnKtC1jN4kb6eQlqj3Lhl0HBzXc";
+const KEY = "AIzaSyCM7xcwGzgYKE_3T3f471_WJdEU1GS6jEQ";
 
 const youtube = {
   create: axios.create({
